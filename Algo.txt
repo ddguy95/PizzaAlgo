@@ -1,3 +1,4 @@
 Step 1. Choose Pizza Establishment to Order
 Step 2. Decide what type of pizza to order
+Step 2a. Order a Super Supreme Pizza; no anchoives
 Step 3. Place order with customer service representative
